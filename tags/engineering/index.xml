@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering | APARAJITH RAGHUVIR</title>
+    <link>https://aparajith21.github.io/tags/engineering/</link>
+      <atom:link href="https://aparajith21.github.io/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Aparajith Raghuvir 2020</copyright><lastBuildDate>Tue, 17 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aparajith21.github.io/media/aparajith.jpg</url>
+      <title>Engineering</title>
+      <link>https://aparajith21.github.io/tags/engineering/</link>
+    </image>
+    
+    <item>
+      <title>Hyperloop</title>
+      <link>https://aparajith21.github.io/post/hyperloop/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://aparajith21.github.io/post/hyperloop/</guid>
+      <description>&lt;h2 id=&#34;what-is-the-hyperloop&#34;&gt;What is the Hyperloop?&lt;/h2&gt;
+&lt;p&gt;Hyperloop is a revolutionary concept put forth by the real world Ironman, Elon Musk. It will revolutionize transportation and is possibly the next big mode of transportation before warping(soon to be invented).&lt;/p&gt;
+&lt;p&gt;It will operate by sending &amp;lsquo;capsules&amp;rsquo; or &amp;lsquo;pods&amp;rsquo; into a steel tube which is maintained at a partial vacuum.&lt;br&gt;
+Each pod floats on a small pocket of air under pressure. Magnetic Levitation(usage of magnets to create lift, thus attaining great speeds as the vehicle isn&amp;rsquo;t in contact with the ground) is mostly avoided here, yet it goes at speeds which a wheel can&amp;rsquo;t sustain.&lt;/p&gt;
+&lt;p&gt;Linear induction motors are used for acceleration and deceleration of the pod. Linear induction motors are basically ones which have the rotor and stator &amp;lsquo;unrotatory&amp;rsquo; so that instead of producing a torque as in traditional motors, a linear force is produced along its length. Similar to regenerative braking, linear motors too store its power when shifting speeds for future use. This is useful during parts of the journey when the speed is greatly increased or decreased.&lt;/p&gt;
+&lt;p&gt;Due to no tyres, there&amp;rsquo;ll be highly reduced rolling resistance, and the air resistance too will be reduced. This is what enables to pod to float or glide throughout the journey at great speeds.&lt;/p&gt;
+&lt;p&gt;But in a tube which isn&amp;rsquo;t a total vacuum, there&amp;rsquo;s a problem in which the pod slows down due to pressure building up in front of it.  This is solved by placing an electric inlet fan and an air compressor to move highly pressurised air to the back of the pod. The pods will be solar powered and the maximum acceleration will be 0.5g with an average speed of 750 mph. This is basically the proposed model of the Hyperloop in short.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2015-11-17-hyperloop/featured_explanation.jpg&#34; alt=&#34;how it works&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-is-it-going-to-affect-us&#34;&gt;How is it going to affect us?&lt;/h2&gt;
+&lt;p&gt;It takes us 30 hours on Indian roads to travel from Kanyakumari to Kashmir and we spend so much on petrol and fuel. Imagine a travel time of 2 hours approximately at a cost of ₹1000. Even if air travel was possible, it would take us 3-4 hours to travel that distance plus even the cheapest flight fare would at least cost ₹20000, which is 20 times the cost of  travelling by the Hyperloop.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2015-11-17-hyperloop/hyperloop.jpg&#34; alt=&#34;HYPERLOOP TECHNOLOGIES INC.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is also weather proof. No matter the conditions, storm, sun or blizzard, this will function. People may say that this is just another similar version of maglev trains, but it doesn&amp;rsquo;t have the big disadvantages that accompany maglev trains ie the huge costs, poor fuel efficiency as levitating requires quite some energy plus the safety is always in question. These are negated in the Hyperloop.
+Plus even though, magnetic levitation is put to use here although not to the maglev train level extent, it&amp;rsquo;s energy efficient and utilises solar power.&lt;/p&gt;
+&lt;p&gt;The Hyperloop basically offers quick transportation and an ecofriendly, weather proof means of transport.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: This article was first published in my retired &lt;a href=&#34;https://www.reasonwhyy.blogspot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt; on 17 November 2015. This is a copy of it.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

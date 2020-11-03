@@ -1,0 +1,18 @@
+{
+  "name": "APARAJITH RAGHUVIR",
+  "short_name": "APARAJITH RAGHUVIR",
+  "lang": "en-gb",
+  "theme_color": "#328cc1",
+  "background_color": "#328cc1",
+  "icons": [{
+    "src": "/images/icon_huce98b5829728f76e40af80a711ff6f15_29666_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huce98b5829728f76e40af80a711ff6f15_29666_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

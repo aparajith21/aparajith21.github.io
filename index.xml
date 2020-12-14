@@ -5,12 +5,52 @@
     <link>https://aparajith21.github.io/</link>
       <atom:link href="https://aparajith21.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>APARAJITH RAGHUVIR</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Aparajith Raghuvir 2020</copyright><lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Aparajith Raghuvir 2020</copyright><lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aparajith21.github.io/media/aparajith.jpg</url>
       <title>APARAJITH RAGHUVIR</title>
       <link>https://aparajith21.github.io/</link>
     </image>
+    
+    <item>
+      <title>Letter Rain</title>
+      <link>https://aparajith21.github.io/post/letter-rain/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://aparajith21.github.io/post/letter-rain/</guid>
+      <description>&lt;p&gt;Letter Rain is an original interactive PC game developed using the
+PyGame library. The game tests your focus and vocabulary by challenging
+you to form words from the falling letters before they sink into the
+water below. Speed and accuracy are key factors to excel in this game,
+apart from of course, a slice of luck.&lt;/p&gt;
+&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;
+&lt;p&gt;The gameplay is very simple and intuitive. There will be letters falling
+from the sky into the river below. The objective of the game is to form
+meaningful words from those letters before it falls into the river and
+score points. The player can form words by pressing the key in the
+keyboard corresponding to the falling letter. Once a player is satisfied
+with the word formed, they can press Return on the keyboard for score
+counting and then to continue with the next word. At each level, there
+is a predefined target score that the player must achieve in order to
+progress to the next level. Each level is of the same fixed duration of 1 minute. Within this duration the player
+must achieve atleast the target score to progress. The game will end if the player fails to score atleast the target score.&lt;/p&gt;
+&lt;p&gt;Look into the Game&lt;/p&gt;
+&lt;h3 id=&#34;start-screen&#34;&gt;Start Screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/start_screen.png&#34; alt=&#34;Start Screen&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;game-screen&#34;&gt;Game Screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/game.png&#34; alt=&#34;Game Screen&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;game-screen---word-formed&#34;&gt;Game Screen - Word Formed&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/game_word.png&#34; alt=&#34;Word formed on game screen&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;pause-screen&#34;&gt;Pause Screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/pause.png&#34; alt=&#34;Pause screen&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;level-passed-screen&#34;&gt;Level Passed Screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/win.png&#34; alt=&#34;Level complete&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;game-over-screen&#34;&gt;Game Over Screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/lose.png&#34; alt=&#34;Game over&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;leaderboard&#34;&gt;Leaderboard&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://aparajith21.github.io/post/2020-12-11-letter-rain/leaderboard.png&#34; alt=&#34;Leader board&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Code is available &lt;a href=&#34;https://github.com/aparajith21/LetterRain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>US Elections 2020: A battle for conscience</title>
